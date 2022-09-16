@@ -2,3 +2,7 @@
 //
 // The variables you want to modify
 // $font-size-root: 20px;
+.v-progress-linear__bar,
+.v-progress-linear__bar__determinate {
+    transition: none;
+}
